@@ -46,7 +46,9 @@
             Terms.vue: component would similarly contain the terms and conditions page template, script, and styles.
 
 
+**Demo Vedio**
 
+You can view a live demo of the login page [here]
 
 
 **Dependencies**
